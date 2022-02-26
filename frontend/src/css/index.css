@@ -1,0 +1,63 @@
+.banner {
+    background: url("../assets/bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.home-container {
+    width: 70%;
+    margin: 0 330px 2em;
+    padding: 1.5em;
+    background: #fff;
+}
+
+.clear {
+    clear: both;
+}
+
+.title {
+    font-size: 3em;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Marcellus SC', serif;
+    padding: 1em 0 10px 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.home-cart-grid {
+    float: left;
+    box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
+}
+
+.home-cart-grid:hover img {
+    -webkit-transform: translateY(0px) scale(0.95);
+    -moz-transform: translateY(0px) scale(0.95);
+    -ms-transform: translateY(0px) scale(0.95);
+    -o-transform: translateY(0px) scale(0.95);
+    transform: translateY(0px) scale(0.95);
+}
+
+.img img {
+    -webkit-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    transition: all 0.35s ease-in-out;
+    width: 150px;
+    height: 150px;
+}
+
+.ant-card-meta-title{
+    font-size:14px !important;
+}
+
+.ant-card-meta-description{
+    color: 	#DC143C;
+}
+
+.ant-card-cover{
+    height: 170px;
+}

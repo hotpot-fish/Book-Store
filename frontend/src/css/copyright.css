@@ -1,0 +1,21 @@
+.copyright {
+    margin: 50px 0 20px 0;
+    text-align: center;
+}
+
+.copyright p {
+    padding: 2em 1em 2em;
+    color: black;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.copyright p a {
+    padding-left: 8px;
+    color: black;
+}
+
+.copyright a:hover {
+    color: #0092ff;
+    text-decoration: underline;
+}

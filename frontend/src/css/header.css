@@ -1,0 +1,81 @@
+.ant-layout-header {
+    background: rgb(255, 255, 255) !important;
+    padding: 0 !important;
+}
+
+.home-title {
+    font-size: 3em;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Marcellus SC', serif;
+    padding: 1em 0 10px 0;
+}
+
+.header{
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 1px solid #d8d8d8;
+}
+
+.menu_hd{
+    padding: 1px 12px 0 12px;
+    position: relative;
+    height: 30px;
+}
+
+.menu_hd_cart{
+    position: relative;
+    height: 40px;
+    background-color: #fff;
+    width:130px;
+    margin-left: -15px;
+}
+
+.menu_hd_guide{
+    padding: 8px 12px 0 12px;
+    position: relative;
+    height: 30px;
+}
+
+.ant-menu.ant-menu-light.ant-menu-root.ant-menu-vertical{
+    margin-top: -20px;
+    height:30px;
+    background-color: #fff;
+    padding-right: 35px;
+}
+
+
+
+.home-cart-item-img{
+    width:30px;
+}
+
+.searcher{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.switchToLogin a{
+    color: black;
+}
+
+.cart{
+    z-index: -1;
+    float: left;
+    background-color: #fff;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.ant-input-search.ant-input-search-enter-button.ant-input-search-large.ant-input-group-wrapper.ant-input-group-wrapper-lg{
+    width:560px;
+    margin-left: 320px;
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
+
+
